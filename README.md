@@ -6,7 +6,7 @@ https://javascript30.com/
 
 | # | Title | Finished Date | Comments|
 |:--:|:--|:--:|:--|
-|1| **JavaScript Drum Kit**|2017-11-22|1.  Find key code here http://keycode.info<br>2. <kbd> stands for keyboard input|
+|1| **JavaScript Drum Kit**|2017-11-22|1.  Find key code here http://keycode.info<br>2. `kbd` tag stands for keyboard input|
 |2| **JS + CSS Clock**|||
 |3| **CSS Variables**|||
 |4| **Array Cardio Day1**|||
